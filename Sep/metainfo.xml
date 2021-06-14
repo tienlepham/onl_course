@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="C1367155-FA92-4F9D-AC5A-957E696DBC44" version="0">
+	<info>
+		<title>SEP 2021</title>
+		<description/>
+	</info>
+	<files index="id37" thumbnail="id33" totalSize="5313321">
+		<file id="id0">data/browsersupport.js</file>
+		<file id="id1">data/fonts/fnt0.woff</file>
+		<file id="id2">data/fonts/fnt1.woff</file>
+		<file id="id3">data/fonts/fnt2.woff</file>
+		<file id="id4">data/fonts/fnt3.woff</file>
+		<file id="id5">data/fonts/fnt4.woff</file>
+		<file id="id6">data/fonts/fnt5.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/img-17f8-143b-c35b-0360.png</file>
+		<file id="id10">data/images/img-3ee8-c10b-df6f-af84.jpg</file>
+		<file id="id11">data/images/img-3f45-4729-48cb-6a71.jpg</file>
+		<file id="id12">data/images/img-4315-c29a-890f-ce0b.jpg</file>
+		<file id="id13">data/images/img-5930-0cc1-84fc-44e6.jpg</file>
+		<file id="id14">data/images/img-5b40-3729-a4db-0ee8.jpg</file>
+		<file id="id15">data/images/img-64bb-9398-95e2-53b1.jpg</file>
+		<file id="id16">data/images/img-6787-4e03-43c8-65e8.jpg</file>
+		<file id="id17">data/images/img-736a-20db-3f24-902f.jpg</file>
+		<file id="id18">data/images/img-780c-05e0-47ca-79db.jpg</file>
+		<file id="id19">data/images/img-7a7b-5f55-c46b-77f6.jpg</file>
+		<file id="id20">data/images/img-874e-35a5-09a9-9a51.jpg</file>
+		<file id="id21">data/images/img-9227-2022-c324-d8d3.jpg</file>
+		<file id="id22">data/images/img-96f1-ea0f-042f-f9e8.jpg</file>
+		<file id="id23">data/images/img-bf46-4ee3-7110-f3ce.jpg</file>
+		<file id="id24">data/images/img-d2e2-542a-5daa-f54f.jpg</file>
+		<file id="id25">data/images/img-d678-9285-e2e8-f20d.jpg</file>
+		<file id="id26">data/images/img-dbb4-c5d9-c8a4-94e4.jpg</file>
+		<file id="id27">data/images/img-e6a9-8c04-b592-6d0c.jpg</file>
+		<file id="id28">data/images/img-ea45-d672-6da9-c583.jpg</file>
+		<file id="id29">data/images/img-ed55-c76c-def3-4709.jpg</file>
+		<file id="id30">data/images/img-f42b-34cc-2fdc-1428.jpg</file>
+		<file id="id31">data/ismplayer/app_store2x.png</file>
+		<file id="id32">data/ismplayer/play.svg</file>
+		<file id="id33">data/ismplayer/preview.png</file>
+		<file id="id34">data/ismplayer/style.css</file>
+		<file id="id35">data/ismplayer/style_mini.css</file>
+		<file id="id36">data/player.js</file>
+		<file id="id37">index.html</file>
+		<file id="id38">ismplayer.html</file>
+		<file id="id39">preview.png</file>
+	</files>
+</presentation>
+
