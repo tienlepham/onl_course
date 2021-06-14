@@ -18,6 +18,7 @@
 html {
 font-family: sans-serif;
 font-size: 16px;
+scroll-behavior: smooth;
 }
 #main {
 
@@ -134,7 +135,7 @@ margin-right: 50px;
 #content {
 padding-top: 100px;
 }
-.about_section {
+#about_section {
 line-height: 1.5;
 text-align: center;
 margin-left: auto;
@@ -201,7 +202,7 @@ padding-left: 19px;
     color: #4255a4;
     font-size: 15px;
 }
-.course{
+#course{
     margin: 60px 0 30px 30px;
   
     display: block;
