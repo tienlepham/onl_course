@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="055A9FF7-0310-4A40-81CA-AB7C1773948F" version="0">
+	<info>
+		<title>Must right 2021</title>
+		<description/>
+	</info>
+	<files index="id19" thumbnail="id15" totalSize="2615448">
+		<file id="id0">data/browsersupport.js</file>
+		<file id="id1">data/fonts/fnt0.woff</file>
+		<file id="id2">data/fonts/fnt1.woff</file>
+		<file id="id3">data/fonts/fnt2.woff</file>
+		<file id="id4">data/fonts/fnt3.woff</file>
+		<file id="id5">data/fonts/fnt4.woff</file>
+		<file id="id6">data/html5-unsupported.html</file>
+		<file id="id7">data/html5.png</file>
+		<file id="id8">data/images/img-1deb98a6a48044f7d6d767672cdfd7f5bc330419.jpg</file>
+		<file id="id9">data/images/img-28c0a2401366bd4fb965821d2df2f0df3821bc0f.jpg</file>
+		<file id="id10">data/images/img-523f7e09a5e96e9dbaf49495448f323af184dd7a.jpg</file>
+		<file id="id11">data/images/img-7e3c09a92c56dd98482eb29b0b30bfac4c52504a.jpg</file>
+		<file id="id12">data/images/img-e21e874cc6775e5179d3dc19677bdbe4c81c7f6e.jpg</file>
+		<file id="id13">data/ismplayer/app_store2x.png</file>
+		<file id="id14">data/ismplayer/play.svg</file>
+		<file id="id15">data/ismplayer/preview.png</file>
+		<file id="id16">data/ismplayer/style.css</file>
+		<file id="id17">data/ismplayer/style_mini.css</file>
+		<file id="id18">data/player.js</file>
+		<file id="id19">index.html</file>
+		<file id="id20">ismplayer.html</file>
+		<file id="id21">preview.png</file>
+	</files>
+</presentation>
+
