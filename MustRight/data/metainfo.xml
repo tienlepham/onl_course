@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="6BB5ACDA-26EF-4165-93F1-9A00A2E68C1A" version="0">
+	<info>
+		<title>Tên bài kiểm tra</title>
+		<description/>
+	</info>
+	<files index="id12" thumbnail="id8" totalSize="1613625">
+		<file id="id0">data/browsersupport.js</file>
+		<file id="id1">data/fonts/fnt0.woff</file>
+		<file id="id2">data/fonts/fnt1.woff</file>
+		<file id="id3">data/fonts/fnt2.woff</file>
+		<file id="id4">data/html5-unsupported.html</file>
+		<file id="id5">data/html5.png</file>
+		<file id="id6">data/ismplayer/app_store2x.png</file>
+		<file id="id7">data/ismplayer/play.svg</file>
+		<file id="id8">data/ismplayer/preview.png</file>
+		<file id="id9">data/ismplayer/style.css</file>
+		<file id="id10">data/ismplayer/style_mini.css</file>
+		<file id="id11">data/player.js</file>
+		<file id="id12">index.html</file>
+		<file id="id13">ismplayer.html</file>
+		<file id="id14">preview.png</file>
+	</files>
+</presentation>
+
