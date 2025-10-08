@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="FF092B82-C5EA-4241-AB05-3EADC8B6F19F" version="0">
+	<info>
+		<title>Menu VCA Quiz</title>
+		<description/>
+	</info>
+	<files index="id16" thumbnail="id12" totalSize="3253185">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/html5-unsupported.html</file>
+		<file id="id7">data/html5.png</file>
+		<file id="id8">data/images/img-04e287d2e6b21e55897fffe7d346daf148dbef1f.jpg</file>
+		<file id="id9">data/images/img-31200370c8f3de53c9471409dc7b0b0f29410572.jpg</file>
+		<file id="id10">data/ismplayer/app_store2x.png</file>
+		<file id="id11">data/ismplayer/play.svg</file>
+		<file id="id12">data/ismplayer/preview.png</file>
+		<file id="id13">data/ismplayer/style.css</file>
+		<file id="id14">data/ismplayer/style_mini.css</file>
+		<file id="id15">data/player.js</file>
+		<file id="id16">index.html</file>
+		<file id="id17">ismplayer.html</file>
+		<file id="id18">preview.png</file>
+	</files>
+</presentation>
+
