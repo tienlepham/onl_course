@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="EBED51DA-E29B-4A72-933D-3242133EAA42" version="0">
+	<info>
+		<title>SEP tháng 3.2024</title>
+		<description/>
+	</info>
+	<files index="id37" thumbnail="id33" totalSize="6666939">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/html5-unsupported.html</file>
+		<file id="id9">data/html5.png</file>
+		<file id="id10">data/images/img-018ef8e0bfe3923401878935c6b74fe764e13e64.png</file>
+		<file id="id11">data/images/img-0aea46a8c7b665a2c2497e609b4891be6cd9be8b.jpg</file>
+		<file id="id12">data/images/img-199f272ccac25501663f9cdc3e765e2e42da71e2.jpg</file>
+		<file id="id13">data/images/img-231897ab54e31d68234fa52c53fd93be6987aa2f.jpg</file>
+		<file id="id14">data/images/img-28fe40d7cdff0a5355bb984d0314192f0eef0750.jpg</file>
+		<file id="id15">data/images/img-29bc657a211fbfa34d156baedfa88fbce46656a3.jpg</file>
+		<file id="id16">data/images/img-3435e41d05b5b2b36303dc15992dce9514d24ab3.jpg</file>
+		<file id="id17">data/images/img-409921bd2ddd165ccd2487a6f30bd8fccf608b30.jpg</file>
+		<file id="id18">data/images/img-67d5792b7c406c571bc5dda350b83ea3e12427d1.jpg</file>
+		<file id="id19">data/images/img-7da5d4cace89748bd339107b07750713d39f0a53.jpg</file>
+		<file id="id20">data/images/img-8030af9b3a238edfa8f187ac5da709f058a25580.jpg</file>
+		<file id="id21">data/images/img-afcdaf038898e0bea36f0304d15e543eb0f44b2b.jpg</file>
+		<file id="id22">data/images/img-b073767f6d8ca426a2887d4e86b4a24b36078bbf.jpg</file>
+		<file id="id23">data/images/img-b500ace990725cbf072c6a25a0a28ac4ef864af8.jpg</file>
+		<file id="id24">data/images/img-c5e9af176b551713dbc4479d34a810e47e45bc86.jpg</file>
+		<file id="id25">data/images/img-c95705c04c23eb9feaa6d2f309d8ec2ea7ac83c8.jpg</file>
+		<file id="id26">data/images/img-d700c69c94c9a8f571fd4d0217f3cb39d244c22d.jpg</file>
+		<file id="id27">data/images/img-da488c7cee3a3bbcd9de537f83cf7776bde41551.jpg</file>
+		<file id="id28">data/images/img-dda9f0de59b6c55178fe4276514a93672d80c70d.jpg</file>
+		<file id="id29">data/images/img-f6399a1c8b57d614b2964fdb7d6beb0ae41efc4e.jpg</file>
+		<file id="id30">data/images/img-f74b28b6029e934b3586ed7a1f44ccaedecfe51e.jpg</file>
+		<file id="id31">data/ismplayer/app_store2x.png</file>
+		<file id="id32">data/ismplayer/play.svg</file>
+		<file id="id33">data/ismplayer/preview.png</file>
+		<file id="id34">data/ismplayer/style.css</file>
+		<file id="id35">data/ismplayer/style_mini.css</file>
+		<file id="id36">data/player.js</file>
+		<file id="id37">index.html</file>
+		<file id="id38">ismplayer.html</file>
+		<file id="id39">preview.png</file>
+	</files>
+</presentation>
+
